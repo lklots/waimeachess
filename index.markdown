@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+Welcome to the Waimea Chess Club located on the Island of Hawai'i. We are just getting started gathering chess players across the community. Please don't hesitate to [contact us](mailto:contact@waimeachess.com) about events and happenings
