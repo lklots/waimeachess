@@ -24,7 +24,7 @@ author: Maintained By Levy Klots
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for the Island of Hawai'i Waimea chess club.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://waimeachess.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.waimeachess.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 avatar: "/assets/img/logo.png"
 
