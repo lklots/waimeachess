@@ -51,3 +51,5 @@ avatar: "/assets/img/logo.png"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - run.sh
