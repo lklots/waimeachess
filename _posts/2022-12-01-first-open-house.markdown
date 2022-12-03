@@ -7,7 +7,7 @@ categories: Open House
 thumbnail-img: /assets/img/20221201/flyer.jpg
 ---
 
-This was Waimea Chess Club's first open house! In attendance we had Eli and Jotan pictured below holding some chess books and Cris and ??? playing their 3rd match. Uncle Pete and auntie Shelly helped open up the space and set everything up.
+This was Waimea Chess Club's first open house! In attendance we had Eli and Jotan pictured below holding some chess books and Kris and Marianne playing their 3rd match. Uncle Pete and auntie Shelly helped open up the space and set everything up.
 
 ![Photo Op](/assets/img/20221201/photoop.jpg)
 
