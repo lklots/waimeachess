@@ -7,4 +7,4 @@ title: Waimea Chess Club
   <img src="/assets/img/welcome.png" alt="drawing" width="400" />
 </center>
 
-Welcome to the Waimea Chess Club [located](/location) on the Island of Hawai'i. We are just getting started gathering chess players across the community. Please don't hesitate to [contact us](mailto:contact@waimeachess.com) about events and happenings.
+Welcome to the Waimea Chess Club [located](/location) on the Island of Hawai'i. The club is just getting started and we'd love for you to be a part of it! Please don't hesitate to [contact us](mailto:contact@waimeachess.com) about events and happenings.
