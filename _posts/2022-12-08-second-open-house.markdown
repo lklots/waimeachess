@@ -11,7 +11,7 @@ This was Waimea Chess Club's second open house. And what a great open house it w
 
 ![Chess Club in Full Swing](/assets/img/20221208/play1.webp)
 
-Auntie Shelley, ever the community organizer, invited so many folks and boy did they show up. In attendance we had Reef, Rootz and their father Tobe, Kaila and Kaylen and their mom Megan, Jonny and his mom Hilary, Ona and her mom Sophia, Mana, Jotan and their mom Diana and Eli and his mom Shelley.
+Auntie Shelley, ever the community organizer, invited so many folks and boy did they show up. In attendance we had Reef, Rootz and their father Tobe, Kyla and Kaylen and their mom Megan, Jonny and his mom Hilary, Ona and her mom Sophia, Mana, Jotan and their mom Diana and Eli and his mom Shelley.
 
 ![Chess Club in Full Swing](/assets/img/20221208/play2.webp)]
 ![Chess Club in Full Swing](/assets/img/20221208/play3.webp)]
