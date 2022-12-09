@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Open House!"
 author: Levy Klots
-date:   2022-12-09 20:30:00 -1000
+date:   2022-12-08 20:30:00 -1000
 categories: Open House
 thumbnail-img: /assets/img/20221208/play1.webp
 ---
