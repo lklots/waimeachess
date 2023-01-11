@@ -3,6 +3,9 @@ layout: home
 title: Waimea Chess Club
 ---
 
+
+{% include_relative announce.html title="Club Meetup" content="Next club meeting will be on Thursday, Jan 12th, 2023 from 3:30pm-5:00pm" %}
+
 <center>
   <img src="/assets/img/welcome.webp" alt="drawing" width="400" />
 </center>

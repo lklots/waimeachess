@@ -1,0 +1,13 @@
+.announce-area {
+  background: #eee;
+  margin: 2rem;
+  padding: 2rem;
+  border-radius: 0.3rem;
+}
+
+.announce-content {
+  margin: 1rem;
+  font-style: bold;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}

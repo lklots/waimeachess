@@ -38,6 +38,8 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
 
+site-css:
+  - "/assets/css/custom-styles.css"
 
 exclude:
   - run.sh
