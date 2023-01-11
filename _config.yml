@@ -29,8 +29,9 @@ url: "https://www.waimeachess.com" # the base hostname & protocol for your site,
 avatar: "/assets/img/logo.webp"
 
 navbar-links:
-  Contact: "mailto:contact@waimeachess.com"
   Location: "/location"
+  Resources: "/resources"
+  Contact: "mailto:contact@waimeachess.com"
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
