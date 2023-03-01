@@ -1,0 +1,1 @@
+var board1 = Chessboard('board1', { pieceTheme: "/assets/img/chesspieces/wikipedia/{piece}.png", position: 'start'})

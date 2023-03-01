@@ -40,6 +40,10 @@ plugins:
 
 site-css:
   - "/assets/css/custom-styles.css"
+  - "https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css"
+
+site-js:
+  - "//unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"
 
 exclude:
   - run.sh
