@@ -1,11 +1,10 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "title": "Waimea Chess Club",
+  "url": "https://www.waimeachess.com",
+  "subtitle": "The website of the Waimea Chess Club located on the Big Island.",
+  "copyright": "",
   "disqusShortname": "",
-  "postsLimit": 4,
+  "postsLimit": 10,
   "pathPrefix": "/",
   "menu": [
     {
@@ -13,21 +12,21 @@
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "Contact",
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
+      "label": "Location",
       "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Waimea Chess Club",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "The website of the Waimea Chess Club located on the Big Island.",
     "contacts": {
       "rss": "",
-      "email": "",
+      "email": "contact@waimeachess.com",
       "github": "#",
       "facebook": "#",
       "telegram": "#",
