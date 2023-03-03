@@ -1,13 +1,13 @@
 ---
 title:  "First Open House!"
-date: "2022-12-01 20:30:51 -1000"
+date: "2022-12-07"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age"
-category: "Open House"
+slug: "/posts/first-open-house"
+category: "Community"
 tags:
-  - "Community"
-description: "WaimeaChess First Open House"
+  - "Open House"
+description: "Recap of the first open house"
 ---
 
 This was Waimea Chess Club's first open house! In attendance we had Eli and Jotan pictured below holding some chess books and Kris and Marianne playing their 3rd match. Uncle Pete and auntie Shelly helped open up the space and set everything up.
