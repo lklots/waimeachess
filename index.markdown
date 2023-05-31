@@ -4,7 +4,7 @@ title: Waimea Chess Club
 ---
 
 
-{% include_relative announce.html title="Club Meetup" content="The club will reconvene July 17th"." %}
+{% include_relative announce.html title="Club Meetup" content="The club will reconvene July 17th." %}
 
 <center>
   <img src="/assets/img/welcome.webp" alt="drawing" width="400" />
