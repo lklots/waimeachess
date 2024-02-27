@@ -4,7 +4,7 @@ title: Waimea Chess Club
 ---
 
 
-{% include_relative announce.html title="Club Meetup" content="Club meets at 4:30-5:30 on Tuesdays. Updated 2/5/24" %}
+{% include_relative announce.html title="Club Meetup" content="Club: Kids' hour, Tuesdays 4:30-5:30. Adult schedule pending. Contact us." %}
 
 <center>
   <img src="/assets/img/welcome.webp" alt="drawing" width="400" />
