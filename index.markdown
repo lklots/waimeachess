@@ -3,11 +3,10 @@ layout: home
 title: Waimea Chess Club
 ---
 
-
-{% include_relative announce.html title="Club Meetup" content="Please check back in August for new club meetup time." %}
+{% include_relative announce.html title="Club Update" content="The club is no longer meeting. It was a pleasure to have the club going for a while. If you're interested in hosting future meetings, please contact contact@waimeachess.com." %}
 
 <center>
   <img src="/assets/img/welcome.webp" alt="drawing" width="400" />
 </center>
 
-Welcome to the Waimea Chess Club [located](/location) on the Island of Hawai'i. The club is just getting started and we'd love for you to be a part of it! Please don't hesitate to [contact us](mailto:contact@waimeachess.com) about events and happenings.
+Welcome to the Waimea Chess Club, located on the Island of Hawai'i. Although we are no longer meeting, we appreciate the great times we shared. If you'd like to host future meetings, please [email us](mailto:contact@waimeachess.com).
